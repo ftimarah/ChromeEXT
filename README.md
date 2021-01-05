@@ -12,6 +12,6 @@ Completed as of right now:
 
 In Progress:
 
-• Utilizing Django framework to construct HTTP requests to a database for extracting and displaying information chrome extension. 
+• Utilizing Django framework to construct HTTP requests to a database for extracting and displaying information on the chrome extension. 
 
 • User interface design in HTML, CSS and JavaScript.
