@@ -2,7 +2,7 @@
 
 Hi!
 
-The goal of this project is to build a cosmetic ingredient checker via a chrome extension. Once activated, the extension should detect any and all ingredients on a users web page. It will then display a pop-up notification of the ingredients and vital information assoicated with it. 
+The goal of this project is to build a cosmetic ingredient checker as a chrome extension. Once activated, the extension should detect any and all ingredients on a users web page. It will then display a pop-up notification of the ingredients and vital information assoicated with it. 
 
 Tasks 
 
